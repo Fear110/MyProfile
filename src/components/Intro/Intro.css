@@ -75,19 +75,20 @@
 }
 
 .i-right > :nth-child(3) {
-  transform: scale(1.4);
-  left: 25%;
+  transform: scale(0.9);
+  left: 7%;
+  top: -12.79%;
 }
-.floatimg1{
+.floatimg1 {
   top: -4%;
   left: 68%;
 }
-.floatimg2{
+.floatimg2 {
   top: 18rem;
   left: 0rem;
 }
 
-.floatimg0{
+.floatimg0 {
   transform: scale(0.6);
   top: -19%;
   left: -24%;
@@ -95,7 +96,7 @@
   padding: 0;
 }
 
-.blur{
+.blur {
   background: rgb(238, 210, 255);
   position: absolute;
   width: 22rem;
@@ -107,11 +108,10 @@
   left: 56%;
   filter: blur(72px);
 }
-.bluebur{
-  background:#C1F5FF;
+.bluebur {
+  background: #c1f5ff;
   top: 17rem;
   width: 21rem;
   height: 11rem;
   left: -9rem;
 }
-
