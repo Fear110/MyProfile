@@ -1,6 +1,6 @@
 import React from 'react';
 import './Navbar.css';
-import '../App.css';
+import '../../App.css';
 
 function Navbar() {
   return (
@@ -20,7 +20,7 @@ function Navbar() {
             </ul>
         </div>
         <button className="button n-button">
-            Contact Us
+            Contact
         </button>
       </div>
     </div>
