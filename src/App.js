@@ -5,6 +5,10 @@ import Services from './components/Services/Services';
 import Exprience from './components/Exprience/Exprience';
 import Works from './components/Works/Works';
 import Portfolio from './components/Portfolio/Portfolio';
+import Testimonials from './components/Testimonials/Testimonials';
+
+import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -14,7 +18,10 @@ function App() {
       <Services />
       <Exprience />
       <Works />
-      <Portfolio/>
+      <Portfolio />
+      <Testimonials />
+      <Contact />
+      <Footer/>
     </div>
   );
 }
